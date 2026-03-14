@@ -115,7 +115,7 @@ Ao desenvolver este dashboard, pude praticar conceitos importantes como:
 ---
 
 ## 
-
+![Preview do Dashboard](DaxusWorkshop.png)
 
 
 
