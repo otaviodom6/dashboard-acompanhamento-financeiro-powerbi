@@ -118,7 +118,6 @@ Ao desenvolver este dashboard, pude praticar conceitos importantes como:
 ![Preview do Dashboard](DaxusWorkshop.png)
 
 
-> Adicione aqui uma imagem do painel para destacar o projeto no GitHub.
 
 **Observação**
 
