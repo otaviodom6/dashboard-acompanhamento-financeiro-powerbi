@@ -115,7 +115,7 @@ Ao desenvolver este dashboard, pude praticar conceitos importantes como:
 ---
 
 ## 
-![Dashboard Financeiro](images/Daxus_Workshop.png)
+![Dashboard Financeiro](images/DaxusWorkshop.png)
 
 > Adicione aqui uma imagem do painel para destacar o projeto no GitHub.
 
